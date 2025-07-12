@@ -1,0 +1,41 @@
+skill_name,context,experience_years
+Python Programming,Full-stack web development using Django and Flask frameworks with extensive API development experience,5
+JavaScript Development,Frontend development with React and Vue.js plus Node.js backend development with Express,4
+Java Programming,Enterprise application development with Spring Boot and microservices architecture,3
+SQL Database Management,PostgreSQL and MySQL database design optimization and complex query development,4
+NoSQL Databases,MongoDB and Redis implementation for high-performance applications and caching,3
+AWS Cloud Services,EC2 S3 Lambda CloudFormation and RDS deployment and management,3
+Docker Containerization,Application containerization and deployment with Docker and Docker Compose,3
+Kubernetes Orchestration,Container orchestration and scaling in production Kubernetes clusters,2
+Git Version Control,Advanced Git workflows including branching merging and collaborative development,5
+REST API Development,Design and implementation of RESTful APIs with proper authentication and documentation,4
+React Framework,Modern React development with hooks context and state management libraries,3
+Node.js Backend,Server-side JavaScript development with Express.js and real-time applications,3
+Database Design,Relational database schema design normalization and performance optimization,4
+DevOps Practices,CI/CD pipeline implementation with Jenkins GitHub Actions and automated testing,3
+Agile Methodology,Scrum and Kanban project management with sprint planning and retrospectives,4
+Code Review,Peer code review processes and mentoring junior developers on best practices,3
+Unit Testing,Test-driven development with Jest pytest and comprehensive test coverage,3
+Linux Administration,Server administration scripting and command-line proficiency in Linux environments,4
+Network Security,Implementation of security best practices authentication and authorization mechanisms,2
+HIPAA Compliance,Healthcare data protection and regulatory compliance in medical software systems,2
+Performance Optimization,Application performance tuning database optimization and caching strategies,3
+Microservices Architecture,Distributed system design and implementation with service mesh technologies,2
+GraphQL APIs,Schema design and implementation of GraphQL endpoints with efficient data fetching,2
+Redis Caching,In-memory caching strategies and session management with Redis,2
+Elasticsearch,Full-text search implementation and log aggregation with Elasticsearch,2
+Technical Writing,Documentation creation API documentation and technical specification writing,4
+Problem Solving,Complex technical problem diagnosis and systematic debugging methodologies,5
+Team Leadership,Technical team leadership code review coordination and architecture decisions,2
+Continuous Integration,Automated build testing and deployment pipelines with multiple CI/CD tools,3
+Infrastructure as Code,Terraform and CloudFormation for automated infrastructure provisioning,2
+Monitoring and Logging,Application monitoring with Prometheus Grafana and centralized logging systems,2
+API Integration,Third-party API integration and webhook implementation for external services,3
+Database Migration,Schema migration planning and execution for production database systems,3
+Security Best Practices,Secure coding practices vulnerability assessment and penetration testing awareness,2
+Cloud Architecture,Scalable cloud infrastructure design and multi-region deployment strategies,2
+Code Quality,Static code analysis linting and enforcement of coding standards across teams,3
+Automated Testing,Integration testing end-to-end testing and test automation framework development,3
+System Design,Large-scale system architecture design and scalability planning,2
+Technical Mentoring,Junior developer mentoring code review guidance and knowledge transfer,2
+Open Source Contribution,Active contribution to open-source projects and community involvement,3

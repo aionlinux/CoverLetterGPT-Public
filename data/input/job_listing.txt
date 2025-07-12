@@ -1,0 +1,54 @@
+Senior Software Engineer - Healthcare Technology Platform
+
+Company: MedTech Innovations
+Location: San Francisco, CA (Remote/Hybrid)
+Employment Type: Full-time
+
+Job Description:
+
+We are seeking a Senior Software Engineer to join our growing healthcare technology team. You'll be working on mission-critical applications that serve healthcare providers and improve patient outcomes across the country.
+
+Key Responsibilities:
+• Design and develop scalable web applications using modern frameworks
+• Collaborate with cross-functional teams including product, design, and DevOps
+• Implement security best practices and ensure HIPAA compliance
+• Optimize application performance and database queries
+• Mentor junior developers and participate in code reviews
+• Contribute to architectural decisions and technical roadmap planning
+
+Required Qualifications:
+• 5+ years of professional software development experience
+• Strong proficiency in Python and JavaScript
+• Experience with React or Vue.js for frontend development
+• Solid understanding of SQL databases (PostgreSQL, MySQL)
+• Experience with cloud platforms (AWS, Azure, or GCP)
+• Knowledge of containerization technologies (Docker, Kubernetes)
+• Understanding of API design and RESTful services
+• Experience with version control systems (Git)
+• Strong problem-solving and analytical skills
+
+Preferred Qualifications:
+• Healthcare industry experience and HIPAA compliance knowledge
+• Experience with microservices architecture
+• Knowledge of DevOps practices and CI/CD pipelines
+• Experience with NoSQL databases (MongoDB, Redis)
+• Familiarity with automated testing frameworks
+• AWS certifications or equivalent cloud certifications
+• Experience with agile development methodologies
+• Open source contribution history
+
+What We Offer:
+• Competitive salary and equity package
+• Comprehensive health, dental, and vision insurance
+• Flexible PTO and work-from-home options
+• Professional development budget
+• Collaborative and inclusive work environment
+• Opportunity to make a direct impact on healthcare technology
+
+About Us:
+MedTech Innovations is a fast-growing healthcare technology company dedicated to improving patient care through innovative software solutions. Our platform serves over 100 healthcare facilities and processes millions of patient interactions annually.
+
+This is an excellent opportunity for a senior engineer who wants to make a meaningful impact in the healthcare industry while working with cutting-edge technology and a talented team.
+
+How to Apply:
+Please submit your resume and a cover letter explaining your interest in healthcare technology and how your experience aligns with our mission.

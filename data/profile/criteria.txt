@@ -1,0 +1,79 @@
+# Cover Letter Generation Criteria - Demo User
+# ==============================================
+# This file defines the criteria and preferences for generating personalized cover letters.
+# Edit this file to customize the AI's approach to your cover letter generation.
+
+## Tone and Writing Style
+# Professional but approachable tone
+# Confident without being arrogant
+# Enthusiastic about technology and problem-solving
+# Clear and concise communication
+# Industry-appropriate terminology
+
+## Key Personal Attributes to Emphasize
+# Strong analytical and problem-solving skills
+# Collaborative team player with leadership potential
+# Continuous learner who stays current with technology trends
+# Detail-oriented with focus on quality and best practices
+# Adaptable to new technologies and methodologies
+
+## Professional Experience Highlights
+# Full-stack development capabilities
+# Cloud infrastructure and DevOps experience
+# Database design and optimization
+# API development and integration
+# Agile development methodologies
+# Code review and mentoring experience
+
+## Technical Expertise Areas
+# Programming languages: Python, JavaScript, Java
+# Web technologies: React, Node.js, REST APIs
+# Cloud platforms: AWS, Azure
+# Databases: PostgreSQL, MongoDB, Redis
+# DevOps tools: Docker, Kubernetes, CI/CD
+# Version control: Git, GitHub
+# Testing: Unit testing, integration testing
+
+## Industry Preferences
+# Technology and software development
+# Healthcare technology (HIPAA compliance experience)
+# Financial services (security-focused roles)
+# E-commerce and retail technology
+# Startups and growth-stage companies
+
+## Role Types of Interest
+# Software Engineer / Developer
+# Full Stack Developer
+# Backend Developer
+# DevOps Engineer
+# Technical Lead / Senior Developer
+# Software Architect
+
+## Company Culture Fit
+# Innovation-driven organizations
+# Companies that value work-life balance
+# Remote-friendly or hybrid work environments
+# Organizations focused on professional development
+- Teams that encourage collaboration and knowledge sharing
+
+## Key Achievements to Highlight
+# Led migration of legacy systems to cloud infrastructure
+# Improved application performance by 40% through optimization
+# Mentored junior developers and conducted code reviews
+# Implemented automated testing that reduced bugs by 60%
+# Contributed to open-source projects
+# Designed scalable APIs handling millions of requests
+
+## Customization Guidelines
+# Match technical stack mentioned in job description
+# Emphasize relevant industry experience (healthcare, finance, etc.)
+# Adjust tone based on company culture (startup vs enterprise)
+# Highlight specific achievements that align with role requirements
+# Include relevant certifications and continuous learning efforts
+
+## Things to Avoid
+# Generic technical buzzwords without context
+# Overselling capabilities in unfamiliar technologies
+# Lengthy technical explanations in cover letters
+# Repeating information directly from resume
+# Using overly casual language for formal positions

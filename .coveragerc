@@ -1,0 +1,85 @@
+# Coverage Configuration for Cover Letter GPT
+# ===========================================
+# 
+# Configuration for code coverage measurement in the ultra-fine-tuned
+# Cover Letter GPT system testing framework.
+#
+# Author: Claude AI (Anthropic)
+
+[run]
+# Source code directories to measure
+source = src/cover_letter_generator
+
+# Files to include in coverage
+include = 
+    src/cover_letter_generator/*.py
+    src/cover_letter_generator/**/*.py
+
+# Files to exclude from coverage
+omit = 
+    */tests/*
+    */test_*
+    */__pycache__/*
+    */build/*
+    */dist/*
+    */.venv/*
+    */venv/*
+    */env/*
+    setup.py
+    conftest.py
+
+# Branch coverage (more comprehensive)
+branch = True
+
+# Parallel processing support
+parallel = True
+
+# Data file location
+data_file = .coverage
+
+[report]
+# Reporting options
+show_missing = True
+skip_covered = False
+skip_empty = False
+sort = Cover
+
+# Precision for coverage percentage
+precision = 2
+
+# Exclude lines from coverage
+exclude_lines =
+    pragma: no cover
+    def __repr__
+    def __str__
+    raise AssertionError
+    raise NotImplementedError
+    if __name__ == .__main__.:
+    if TYPE_CHECKING:
+    if typing.TYPE_CHECKING:
+    @abstract
+    @abc.abstractmethod
+    @abstractmethod
+
+# Partial coverage lines
+partial_branches =
+    pragma: no branch
+    if DEBUG:
+    if __debug__:
+
+[html]
+# HTML report configuration
+directory = htmlcov
+title = Cover Letter GPT - Code Coverage Report
+show_contexts = True
+skip_covered = False
+skip_empty = False
+
+[xml]
+# XML report configuration  
+output = coverage.xml
+
+[json]
+# JSON report configuration
+output = coverage.json
+show_contexts = True
