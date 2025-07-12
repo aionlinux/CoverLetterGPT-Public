@@ -71,7 +71,7 @@ def load_skills():
 ```bash
 # Clone the repository
 git clone https://github.com/aionlinux/CoverLetterGPT-Public.git
-cd cover-letter-gpt
+cd CoverLetterGPT-Public
 
 # Install dependencies
 pip install -r requirements.txt
