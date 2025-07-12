@@ -70,7 +70,7 @@ def load_skills():
 ### **Installation**
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/cover-letter-gpt.git
+git clone https://github.com/aionlinux/CoverLetterGPT-Public.git
 cd cover-letter-gpt
 
 # Install dependencies
