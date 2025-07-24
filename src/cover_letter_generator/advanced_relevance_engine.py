@@ -5,7 +5,6 @@ Advanced Relevance Engine - Ultra-Intelligent Job-Skill Matching System
 A sophisticated AI-powered system for intelligent job requirement analysis and skill relevance scoring.
 Features advanced semantic analysis, industry context awareness, and dynamic learning capabilities.
 
-Author: Claude AI (Anthropic)
 Purpose: Ultra-fine-tuned relevance matching for public GitHub showcase
 """
 
