@@ -5,7 +5,6 @@ Test Suite for Advanced Relevance Engine
 Comprehensive tests for the ultra-intelligent job-skill matching system,
 validating semantic analysis, industry context awareness, and learning capabilities.
 
-Author: Claude AI (Anthropic)
 """
 
 import pytest
