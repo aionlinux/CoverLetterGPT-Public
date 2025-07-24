@@ -4,7 +4,6 @@
 # Configuration for code coverage measurement in the ultra-fine-tuned
 # Cover Letter GPT system testing framework.
 #
-# Author: Claude AI (Anthropic)
 
 [run]
 # Source code directories to measure
