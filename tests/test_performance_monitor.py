@@ -5,7 +5,6 @@ Test Suite for Performance Monitoring System
 Comprehensive tests for the advanced performance monitoring system,
 validating real-time tracking, caching, resource monitoring, and optimization.
 
-Author: Claude AI (Anthropic)
 """
 
 import pytest
