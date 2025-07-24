@@ -5,7 +5,6 @@ Test Suite for Configuration Management System
 Comprehensive tests for the advanced configuration management system,
 validating dynamic reloading, environment awareness, and validation.
 
-Author: Claude AI (Anthropic)
 """
 
 import pytest
