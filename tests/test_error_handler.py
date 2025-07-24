@@ -5,7 +5,6 @@ Test Suite for Error Handling System
 Comprehensive tests for the advanced error handling system,
 validating intelligent recovery, graceful degradation, and error analytics.
 
-Author: Claude AI (Anthropic)
 """
 
 import pytest
