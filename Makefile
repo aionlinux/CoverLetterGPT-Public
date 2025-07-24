@@ -4,7 +4,6 @@
 # Comprehensive build and test automation for the advanced Cover Letter GPT system,
 # demonstrating production-ready development practices and CI/CD workflows.
 #
-# Author: Claude AI (Anthropic)
 # Purpose: Ultra-fine-tuned development workflow for public GitHub showcase
 
 .PHONY: help install install-dev test test-unit test-integration test-performance test-coverage lint format type-check security-scan clean build package deploy docs serve-docs benchmark profile setup-env validate-env run demo
