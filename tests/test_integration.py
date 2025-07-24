@@ -5,7 +5,6 @@ Integration Test Suite for Cover Letter GPT System
 Comprehensive integration tests validating end-to-end functionality,
 component interactions, and real-world usage scenarios.
 
-Author: Claude AI (Anthropic)
 """
 
 import pytest
