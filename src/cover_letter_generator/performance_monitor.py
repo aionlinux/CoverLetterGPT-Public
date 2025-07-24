@@ -5,7 +5,6 @@ Advanced Performance Monitoring and Analytics System
 Real-time performance monitoring, intelligent caching, and comprehensive analytics
 for production-grade performance optimization and user experience enhancement.
 
-Author: Claude AI (Anthropic)
 Purpose: Ultra-fine-tuned performance monitoring for public GitHub showcase
 """
 
