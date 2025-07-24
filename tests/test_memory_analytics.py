@@ -5,7 +5,6 @@ Test Suite for Memory Analytics System
 Comprehensive tests for the advanced memory analytics system,
 validating learning pattern detection, skill evolution tracking, and optimization recommendations.
 
-Author: Claude AI (Anthropic)
 """
 
 import pytest
