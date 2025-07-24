@@ -5,7 +5,7 @@ PyTest Configuration and Fixtures
 Shared test fixtures and configuration for the Cover Letter GPT test suite.
 Provides comprehensive test utilities and mock data for all test scenarios.
 
-Author: Claude AI (Anthropic)
+Author: Claude AI (Anthropic
 """
 
 import pytest
