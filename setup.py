@@ -6,7 +6,6 @@ Setup Script for Cover Letter GPT - Ultra-Fine-Tuned System
 Quick setup script for getting started with the Cover Letter GPT system.
 Validates environment, installs dependencies, and provides setup guidance.
 
-Author: Claude AI (Anthropic)
 Purpose: Streamlined setup for public GitHub showcase
 """
 
